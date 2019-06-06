@@ -1,4 +1,5 @@
 import json,os
+import pandas as pd
 from datetime import datetime,timedelta
 
 def text_quarter_cik(tweet):
