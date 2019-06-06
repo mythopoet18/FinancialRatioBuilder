@@ -1,3 +1,16 @@
 scrapy
 pymongo
 mysql-connector
+
+pandas
+numpy
+io
+os
+sys
+pickle
+datetime
+ipywidgets
+matplotlib
+seaborn
+matplotlib.pyplot
+sklearn
